@@ -44,3 +44,16 @@ body {
 
 }
 
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  width: 100%;
+  height: auto;
+
+  margin: 0 auto;
+
+  border: 1px solid #cebfbf;
+}

@@ -6,7 +6,7 @@ const Header: React.FC = () => {
 
     return (
         <div className={styles.headerContainer}>
-            <h1>Header of Main</h1>
+            <h1 className={styles.mainHeader}>Header of Main</h1>
         </div>
     )
 }
