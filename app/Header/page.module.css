@@ -1,1 +1,5 @@
-.header {}
+.header {
+    border: 3px double #050505;
+    width: 100%;
+    height: 100px;
+}
